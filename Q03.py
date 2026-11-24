@@ -1,0 +1,1 @@
+print("Welcome to Python Programming.\nPython is easy to learn.\nPython is a powerful programming language.")
